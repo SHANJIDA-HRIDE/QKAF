@@ -28,3 +28,19 @@ Please login into your account and write Test Cases:
 I'm a QA Engineer
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanjida-hride-b38222173/)
+## Related
+
+Here are some related projects
+
+#
+🚀[NagadHut TestCase](https://github.com/SHANJIDA-HRIDE/NagadHut_TestCase)
+#
+💬[Test-Case-AIUB-Banking-Management-System](https://github.com/SHANJIDA-HRIDE/Test-Case-AIUB-Banking-Management-System)
+#
+📫[API-Testing-with-Postman](https://github.com/SHANJIDA-HRIDE/API-Testing-with-Postman)
+
+## Feedback
+
+If you have any feedback, please reach out to us at shanjidahride1997@gmail.com
+
+
